@@ -1,2 +1,2 @@
-# Jewelry-Store-
+
 # Jewelry-Store
